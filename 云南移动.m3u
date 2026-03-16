@@ -143,6 +143,8 @@ http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225619/1.m3u8
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225617/1.m3u8
 #EXTINF:-1 tvg-name="昆明教育" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="云南频道",昆明教育
 http://hwvod.yn.chinamobile.com/PLTV/88888894/224/3221225985/1.m3u8
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/世界地理.png" group-title="体验频道",世界地理
+http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="北京卫视" http-user-agent="AptvPlayer-UA" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视4K.png" group-title="体验频道",北京卫视4K
 http://8.138.7.223/tv/btime.php?id=bjws4k
 #EXTINF:-1 tvg-name="东方卫视" http-user-agent="aliplayer" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" group-title="体验频道",东方卫视4K
